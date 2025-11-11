@@ -1,0 +1,6 @@
+{
+  "old-username": "new-username",
+  "old.email@example.com": "new-username",
+  "another@example.com": "another-username",
+  "john.doe@company.com": "johndoe"
+}
